@@ -62,5 +62,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 150px; /* Set a fixed width */
+    height: 100px; /* Set a fixed height */
     margin-left: 90px; /* Adjust as needed */
 }
