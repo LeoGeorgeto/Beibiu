@@ -62,8 +62,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 90px; /* Set a fixed width */
-    height: 60px; /* Set a fixed height */
+    width: 60px; /* Set a fixed width */
+    height: 40px; /* Set a fixed height */
     overflow: hidden;
     margin-left: 120px; /* Adjust as needed */
 }
